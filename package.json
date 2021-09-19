@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:e2e": "vue-cli-service test:e2e --headless",
-    "test:e2el": "vue-cli-service test:e2e --disable-web-security",
+    "test:e2el": "vue-cli-service test:e2e",
     "lint": "vue-cli-service lint",
     "test": "nyc --reporter=html --reporter=text mocha 'test/**/*.js'"
   },

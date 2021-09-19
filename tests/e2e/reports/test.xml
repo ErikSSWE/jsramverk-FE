@@ -4,7 +4,7 @@
             tests="0">
 
   <testsuite name="test"
-    errors="1" failures="0" hostname="" id="" package="test" skipped="2"
+    errors="1" failures="0" hostname="" id="" package="test" skipped="3"
     tests="0" time="0.000" timestamp="">
   
 
@@ -42,6 +42,11 @@
     
     <testcase
       name="default add tests" classname="test">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="default edit tests" classname="test">
       <skipped />
     </testcase>
     
