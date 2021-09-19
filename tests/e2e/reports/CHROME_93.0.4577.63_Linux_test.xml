@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="test"
+    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="3" time="3.126" timestamp="">
+  
+    <testcase name="default e2e tests" classname="test" time="0.3850" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="default add tests" classname="test" time="1.461" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="default edit tests" classname="test" time="1.280" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
