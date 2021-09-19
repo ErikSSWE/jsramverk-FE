@@ -3,12 +3,7 @@ language: node_js
 node_js:
     - "node"
 
-services: mongodb
-
 sudo: false
-
-git:
-    submodules: false
 
 before_script:
     - npm install
