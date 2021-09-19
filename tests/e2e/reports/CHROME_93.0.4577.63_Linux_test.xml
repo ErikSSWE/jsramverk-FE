@@ -5,9 +5,9 @@
 
   <testsuite name="test"
     errors="0" failures="0" hostname="" id="" package="test" skipped="0"
-    tests="3" time="2.787" timestamp="">
+    tests="3" time="6.148" timestamp="">
   
-    <testcase name="default e2e tests" classname="test" time="0.3950" assertions="3">
+    <testcase name="default e2e tests" classname="test" time="0.3990" assertions="3">
 
     
 
@@ -16,14 +16,14 @@
     
     </testcase>
   
-    <testcase name="default add tests" classname="test" time="1.442" assertions="2">
+    <testcase name="default add tests" classname="test" time="1.774" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="default edit tests" classname="test" time="0.9500" assertions="2">
+    <testcase name="default edit tests" classname="test" time="3.975" assertions="2">
 
     
 

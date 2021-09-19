@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:e2e": "vue-cli-service test:e2e --headless",
+    "test:e2el": "vue-cli-service test:e2e --disable-web-security",
     "lint": "vue-cli-service lint",
     "test": "nyc --reporter=html --reporter=text mocha 'test/**/*.js'"
   },
@@ -24,7 +25,7 @@
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
-    "chromedriver": "83",
+    "chromedriver": "93",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "geckodriver": "^1.20.0",

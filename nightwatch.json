@@ -1,0 +1,11 @@
+{
+"test_settings": {
+    "chrome": {
+        "desiredCapabilities": {
+            "chromeOptions": {
+                "args": ["--disable-web-security"]
+                }
+            }
+        }
+    }
+}

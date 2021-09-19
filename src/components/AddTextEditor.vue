@@ -18,7 +18,7 @@
         <ckeditor :editor="editor" v-model="editorData" :config="editorConfig"></ckeditor>
       </div>
 
-      <button @click="saveTextEditor" class="btn btn-success">Submit</button>
+      <button id="editform-submit" @click="saveTextEditor" class="btn btn-success">Submit</button>
     </div>
 
     <div v-else>
